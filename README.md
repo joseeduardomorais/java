@@ -1,2 +1,2 @@
-# calculadora
-projeto de calculadora em python
+# Java
+Primeiro projeto em Java
